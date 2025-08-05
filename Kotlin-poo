@@ -1,0 +1,24 @@
+Val nombre: Constante 
+Var edas: Variable
+
+Funcion:
+Titulo: fun saludar ()
+        {
+          println("Hola") SALIDA
+         }
+Invocar  saludar()
+
+Clase
+class persona()
+{
+}
+class persona (val nombre:string,var edad: int)
+{
+ fun saludar()
+ {
+  println("hola")
+}
+}
+val persona = persona ("Ana,25") Argumento
+persona.saludar                    Invcacion 
+persona.saludar
